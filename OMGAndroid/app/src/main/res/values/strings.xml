@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OMG Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">This is my typing stuff</string>
+</resources>
